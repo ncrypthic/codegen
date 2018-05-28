@@ -25,4 +25,4 @@ import (
 type SomeFn func(context.Context, string) error
 ```
 
-This command line will help refactoring existing application writen in go to implement [opentracing.io](opentracing.io)
+This command line will help refactoring existing application writen in go to implement [opentracing.io](http://opentracing.io)
